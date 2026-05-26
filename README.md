@@ -4,6 +4,7 @@ Thank you for attending the Git & GitHub Workshop.
 
 This repository contains:
 - Slides Link
+- Recording Link
 - Assignment links
 
 We hope this workshop helps you learn version control and collaboration.
